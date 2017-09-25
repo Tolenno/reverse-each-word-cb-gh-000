@@ -1,3 +1,5 @@
+require "pry"
+
 sentence = "Hi again, just making sure it's reversed!"
 
 def reverse_each_word(sentence)
